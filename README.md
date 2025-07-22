@@ -1,5 +1,5 @@
 # LandingPage
-Project: Landing page from The Odin Project.
+Project: Landing page from The Odin Project. https://amynukalacs50.github.io/LandingPage/
 
 Paw print logo - tanya from clker.com
 
